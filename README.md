@@ -1,6 +1,6 @@
 # IOS_Media_Capture_App
 
-Repo containing work done for the mandatory assignment week 12 of the IOS Course at Computer Science, KEA.
+Repo containing work done for the mandatory assignment week 13 of the IOS Course at Computer Science, KEA.
 
 Right now, the app supports:
 - Taking pictures with the camera and displaying them in the app.
